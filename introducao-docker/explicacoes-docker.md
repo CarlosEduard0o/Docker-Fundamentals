@@ -30,10 +30,7 @@ Para facilitar o uso do Docker, é importante conhecer os comandos essenciais pa
 - [Documentação oficial - Docker CLI](https://docs.docker.com/engine/reference/commandline/docker/)
 - [Comandos Docker explicados - Dev.to](https://dev.to/soutoigor/docker-imagens-containers-e-seus-principais-comandos-23p6)
 
-## 📌 Contribuição
-Sinta-se à vontade para contribuir com este repositório! Caso tenha alguma sugestão ou queira adicionar mais conteúdo, abra uma issue ou envie um pull request.
-
 ---
 
-Este guia foi criado para facilitar o aprendizado sobre Docker e containers. Esperamos que seja útil! 🚀
+Este guia foi criado para facilitar o aprendizado sobre Docker e containers. Espero que seja útil! 🚀
 
